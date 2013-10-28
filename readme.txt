@@ -1,5 +1,5 @@
 === Wordnik Word of the Day Widget ===
-Contributors: blobaugh,wpseattle
+Contributors: blobaugh,wpseattle,NikV
 Tags: Wordnik, dictionary, word of the day
 Requires at least: 3.0
 Tested up to: 3.7
