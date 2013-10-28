@@ -3,7 +3,7 @@
  Plugin Name: Wordnik Word of the Day Widget
  Plugin URI: http://www.wordnik.com
  Description: Simple widget to retrieve the Wordnik Word of the Day. 
- Version: 0.1
+ Version: 0.2
  Author: Ben Lobaugh
  Author URI: http://ben.lobaugh.net
  */
